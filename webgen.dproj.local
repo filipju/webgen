@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.895,=D:\Code\Delphi\webgen\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.799,=D:\Code\Delphi\webgen\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.796,=D:\Code\Delphi\webgen\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.284,=D:\Code\Delphi\webgen\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.140,D:\Code\Delphi\webgen\Unit1.pas=D:\Code\Delphi\webgen\addContent.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.218,D:\Code\Delphi\webgen\mainMenu.dfm=D:\Code\Delphi\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.046,D:\Code\Delphi\webgen\webCode.pas=D:\Code\Delphi\webgen\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.194,D:\Code\Delphi\webgen\Unit1.pas=D:\Code\Delphi\webgen\summary.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.313,=D:\Code\Delphi\webgen\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.987,D:\Code\Delphi\webgen\webCreation.dfm=D:\Code\Delphi\webgen\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.202,D:\Code\Delphi\webgen\webgen.dproj=D:\Code\Delphi\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.520,D:\Code\Delphi\webgen\aboutProgram.dfm=D:\Code\Delphi\webgen\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.218,D:\Code\Delphi\webgen\mainMenu.pas=D:\Code\Delphi\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.046,D:\Code\Delphi\webgen\webCode.dfm=D:\Code\Delphi\webgen\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.520,D:\Code\Delphi\webgen\aboutProgram.pas=D:\Code\Delphi\webgen\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.987,D:\Code\Delphi\webgen\webCreation.pas=D:\Code\Delphi\webgen\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.900,=D:\Code\Delphi\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.194,D:\Code\Delphi\webgen\Unit1.dfm=D:\Code\Delphi\webgen\summary.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.140,D:\Code\Delphi\webgen\Unit1.dfm=D:\Code\Delphi\webgen\addContent.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
